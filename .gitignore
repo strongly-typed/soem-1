@@ -1,0 +1,7 @@
+CMakeFiles/
+test/
+*.so
+obj/
+lib/
+CMakeCache.txt
+*.cmake
